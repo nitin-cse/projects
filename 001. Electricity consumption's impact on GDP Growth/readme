@@ -1,1 +1,21 @@
+Project Number - 001
+Project Theme -  Machine Learning
+Project Name - Electricity consumption's impact on GDP Growth
+Skill Deployed - Machine Learning, Python, Data Analysis, Data Visualization, Statistical Data Analysis
 
+Project Details
+	- Code Link: https://www.kaggle.com/code/rawatnitin/electricity-consumption-s-impact-on-gdp-growth
+	- GitHub Link: https://github.com/nitin-cse/projects/tree/main/001.%20Electricity%20consumption's%20impact%20on%20GDP%20Growth
+	- Dataset Title: Global Energy Consumption
+	- Objective: Investigating the relationship between electricity consumption and GDP growth
+	- Model Approach: Employing Regression Models
+	- Models Utilized: Linear Regression, Random Forest, Support Vector Machines (SVM)
+	- Output: Predicting GDP of a country 
+
+Project Overview:
+Utilizing the global-data-on-sustainable-energy dataset, which spans two decades, we examine energy consumption across multiple countries, focusing on its correlation with economic growth. Through extensive analysis and the application of various machine learning algorithms and model optimization techniques, we investigate global GDP growth trends relative to each country's electric energy consumption.
+
+Personal Reflection:
+Sharing my inaugural project on LinkedIn marks a significant milestone in my transition from a data engineer to an emerging data scientist. Despite the challenges encountered during my five years as a data engineer in India and pursuing a master's in Ireland, I'm gratified to have stayed committed to my goals and fostered both professional and personal growth.
+
+This project represents the culmination of my academic and professional journey, demonstrating my ongoing dedication to learning and advancing in the field of data science. I eagerly anticipate sharing my insights and contributing to the ever-evolving landscape of sustainable energy and economic development, embracing the exciting opportunities that lie ahead in this new phase of exploration and discovery.
