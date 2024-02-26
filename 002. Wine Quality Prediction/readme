@@ -11,8 +11,8 @@ Personal Reflection:
 	While going through this project I developed an understanding of data pre-processing, data cleaning, data standardization, and more, but what made me more fascinated was the Classification Machine Learning Algorithms, such as Random Forest, Stochastic Gradient Descent Classifier, Support Vector Classifier(SVC). Furthermore, converting skewed data into normalized datasets made an add-on to the knowledge. I would like to further investigate cases where conversion will make more contribution to enhancing the overall performance of the model.
 
 Project Details
-	- Code Link: 
-	- GitHub Link: 
+	- Code Link: https://www.kaggle.com/code/rawatnitin/wine-quality-prediction/edit
+	- GitHub Link: https://github.com/nitin-cse/projects/tree/main/002.%20Wine%20Quality%20Prediction
 	- Dataset Title: Wine Quality Prediction
 	- Objective: Predicting the quality of wine based on the ingredient volume
 	- Model Approach: Employing Classification Models
