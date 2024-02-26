@@ -1,1 +1,21 @@
+Project Overview:
+	Project Number - 002
+	Project Theme - Machine Learning
+	Project Name - Wine Quality Prediction
+	Skill Deployed - Machine Learning, Python, Data Analysis, Data Visualization, Statistical Data Analysis
 
+Project Objective:
+	Given the wine dataset including multi values such as fixed acidity, volatile acidity,..., and quality; we have to develop a machine learning model that can later predict the quality of wine using the input paratmers. This will assist winemakers in developing an understanding of wine quality for a given combination of ingredients.
+
+Personal Reflection:
+	While going through this project I developed an understanding of data pre-processing, data cleaning, data standardization, and more, but what made me more fascinated was the Classification Machine Learning Algorithms, such as Random Forest, Stochastic Gradient Descent Classifier, Support Vector Classifier(SVC). Furthermore, converting skewed data into normalized datasets made an add-on to the knowledge. I would like to further investigate cases where conversion will make more contribution to enhancing the overall performance of the model.
+
+Project Details
+	- Code Link: 
+	- GitHub Link: 
+	- Dataset Title: Wine Quality Prediction
+	- Objective: Predicting the quality of wine based on the ingredient volume
+	- Model Approach: Employing Classification Models
+	- Models Utilized: Random Forest Classifier, Stochastic Gradient Descent Classifier, Support Vector Classifier(SVC)
+	- Model Optimization: Grid Search CV
+	- Output: Predicting whether a wine is good or bad
